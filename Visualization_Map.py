@@ -140,5 +140,28 @@ class MapVisualizer:
         self.fps = max(1, min(60, fps))
 
     
+'''
+if __name__ == "__main__":
+
+    loader = DataLoader("MAP_KRR.xlsx")
+
+    # Create the visualizer
+    viz = MapVisualizer(loader)
+
+    # Extract agent + goal positions
+    viz.agent_start_goal()
+
+    # Main display loop
+    running = True
+    while running:
+        for event in pg.event.get():
+            if event.type == pg.QUIT:
+                running = False
+
+        viz.draw_map()  # draw the grid, agents, goals
+
+    pg.quit()
+
+'''
 
 
