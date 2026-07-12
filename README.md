@@ -5,3 +5,8 @@ This Project presents a decentralized navigation framework for multi-agent syste
 Note: main.py Runs the whole project 
 
 Suggestions: Create a Virtual python envoirment before running this program
+
+## Grid MAP 
+
+<img width="800" height="800" alt="map_grid" src="https://github.com/user-attachments/assets/4c145c51-aacc-4785-87ac-07324f28e48f" />
+
