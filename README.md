@@ -33,7 +33,7 @@ communication with other agents. The system environment
 takes all agent’s chosen action as joint actions and executes
 them providing each agent with its own reward and observations.
 This setup avoids the high computational cost of
-centralized planning. The Fig. 2 shows the Execution cycle
+centralized planning. The Figure shows the Execution cycle
 and Data Flow in Decentralized POMCP Planning.
 
 <img width="812" height="479" alt="image" src="https://github.com/user-attachments/assets/86832c0c-62e5-42a1-8650-852aaf780d92" />
