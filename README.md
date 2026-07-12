@@ -54,3 +54,11 @@ improve future planning.
 - Final test run: both agents reached goal in 66 steps (Agent 1 reward: 57, Agent 2 reward: 3,243)
 - Planning horizon: 3 | Simulations per step: 22 | γ_POMCP: 0.99 | γ_shape: 0.90
 - Environment: 20×20 grid | 2 agents | Max steps: 500 | Observation radius: 2
+
+## Author
+
+Muhammad Zahid
+MSc Artificial Intelligence | Mechatronics Engineer
+
+## Association 
+Univesity project: Manchester metropolitan university (mmu)
